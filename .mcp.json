@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/diana/.config/herd-lite/bin/php",
+                "/home/diana/projects/boooo/example-app/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
